@@ -30,4 +30,3 @@ Hi I am a passionate Cybersecurity Professional and a recent graduate from *Gomy
 
 - 💼 *LinkedIn[:www.linkedin.com/in/excess-grace-650764411 
 - 📧 *Email:excessgracelove@gmail.com
-- 🌐 *TryHackMe / Favour Victor 
